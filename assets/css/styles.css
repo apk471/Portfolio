@@ -180,23 +180,26 @@ img {
 .ctc{
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 16px;
   justify-content: center;
 }
 
 .mail{
   border: 2px solid black;
     border-radius: 7px;
-    padding: 14px;
+    width: 36vh;
+    /* padding: 14px; */
+    padding: 20px 32px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap: 2px;
+    gap: 3px;
 }
 .edu{
   border: 2px solid black;
   border-radius: 7px;
-  padding: 13px 52px;
+  padding: 20px 32px;
+  width: 36vh;
   /* padding: 11px; */
   display: flex;
   align-items: center;
